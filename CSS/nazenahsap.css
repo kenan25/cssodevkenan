@@ -1,0 +1,31 @@
+ul {
+    display: inline-block;
+    text-align:left;
+   }
+ 
+   body {
+    background-color:#FFFF00;
+  }
+
+  ol {
+    display: inline-block;
+    text-align:left;
+   }
+
+   h1 {
+     color: #5557a3;
+   }
+
+   h2 {
+     color: #1b1b1d;
+   }
+
+   h3 {
+     color: #d31d1d;
+   }
+
+   .link:hover {
+     color:rgb(180, 226, 120);
+   }
+   
+  
